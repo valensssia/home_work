@@ -1,5 +1,3 @@
-package helloapp;
-
 import java.util.Scanner;
 
 public class Name {
